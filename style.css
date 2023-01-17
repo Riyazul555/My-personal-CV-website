@@ -1,0 +1,44 @@
+element.style{
+  background-color:#E4F9F6 ;
+    height:  100px;
+  padding: 40px
+}
+body{
+  text-align: center;
+  font-family: 'Merriweather', serif;;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.top-cloud{
+  position: absolute;
+  left: 900px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  right: 900px;
+  top : 250px;
+}
+.btn:hover {
+  display: block;
+  color: red;
+}
+.footer-link1:hover {
+  display: inline;
+  color: red;
+}
+.footer-link2:hover {
+  display: inline;
+  color: red;
+}
+.footer-link3:hover {
+  display: inline;
+  color: red;
+}
+
